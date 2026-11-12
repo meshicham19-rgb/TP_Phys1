@@ -1,0 +1,6 @@
+<resources>
+    <color name="bg">#0F1318</color>
+    <color name="panel">#151A21</color>
+    <color name="accent">#4CC293</color>
+    <color name="icon_bg">#151A21</color>
+</resources>
